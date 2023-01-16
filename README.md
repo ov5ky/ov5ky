@@ -1,4 +1,6 @@
-### Hey Hatchlings 🐣 👋
+### Hey Hatchlings 🐣 
+
+I'm an Australian Student, Scuba Diver, Card-Counter, and Amateur Programmer.
 
 <!--
 **Lagooyn/Lagooyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
