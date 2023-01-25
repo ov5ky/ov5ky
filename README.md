@@ -2,7 +2,7 @@
 
 > My name is Lagooyn, and I'm an Australian **Student**, **Scuba Diver**, **Card-Counter**, and **Amateur Programmer**.
 
-I'd love to live a nomadic lifestyle, and I'm hoping programming might be the solution to that quest.
+I'd love to live a nomadic lifestyle, and I'm hoping programming/web-dev might be the solution to that quest.
 <!--
 **Lagooyn/Lagooyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
