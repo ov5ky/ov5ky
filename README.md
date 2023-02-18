@@ -1,6 +1,6 @@
 ### Hey Hatchlings 🐣 
 
-> My name is Lagooyn, and I'm an Australian **Student**, **Scuba Diver**, **Card-Counter**, and **Amateur Programmer**.
+> My name is Ovsky, and I'm an Australian **Student**, **Scuba Diver**, **Card-Counter**, and **Amateur Programmer**.
 
 I'd love to live a nomadic lifestyle, and I'm hoping programming/web-dev might be the solution to that quest.
 <!--
